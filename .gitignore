@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.DS_Store
+compass_subset/
+compass_trial/
+*.lic
